@@ -633,3 +633,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.16-20.40.58:752][251]LogSavePackage: Moving 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Idle1_Sprite_Auto1A9D0BF264ADED3D8C87A7F9C5A45EA5B.tmp' to 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Autosaves/Game/2DSideScrollerBP/Character/Idle1_Sprite_Auto1.uasset'
 [2020.11.16-20.40.58:753][251]LogFileHelpers: Auto-saving content packages took 0.023
 [2020.11.16-20.42.56:514][602]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.16-20.43.12:888][650]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.16-20.43.13:695][652]LogAudioMixer: Display: Audio Buffer Underrun detected.

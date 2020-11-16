@@ -601,3 +601,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.16-20.30.11:232][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2020.11.16-20.30.11:232][  0]LogContentStreaming: Texture pool size now 800 MB
 [2020.11.16-20.30.11:251][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.16-20.38.42:419][354]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.16-20.38.42:466][354]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Admin\Downloads\Idle1.png)
+[2020.11.16-20.38.42:474][354]LogTexture: Display: Building textures: Idle1 (AutoDXT, 32X32)
+[2020.11.16-20.39.32:851][ 12]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/Character/Idle1_Sprite.Idle1_Sprite
+[2020.11.16-20.39.33:056][ 12]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.16-20.39.33:123][ 12]LogRenderer: Reallocating scene render targets to support 1528x916 Format 9 NumSamples 1 (Frame:1).
+[2020.11.16-20.39.54:642][526]LogSlate: Window 'Idle1_Sprite' being destroyed
+[2020.11.16-20.39.54:647][526]LogSlate: Window 'Idle1_Sprite' being destroyed
+[2020.11.16-20.39.54:655][526]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-20.39.54:655][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-20.39.55:718][649]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/Character/Idle1_Sprite.Idle1_Sprite
+[2020.11.16-20.39.57:943][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Character/Idle1_Sprite" FILE="C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Content/2DSideScrollerBP/Character/Idle1_Sprite.uasset" SILENT=true
+[2020.11.16-20.39.57:953][888]LogSavePackage: Moving 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Idle1_Sprite2E97AB7844B057ED5BADF4A944E1FCF5.tmp' to 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Content/2DSideScrollerBP/Character/Idle1_Sprite.uasset'
+[2020.11.16-20.39.57:969][888]AssetCheck: New page: Asset Save: Idle1_Sprite
+[2020.11.16-20.39.57:969][888]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/Character/Idle1_Sprite.Idle1_Sprite
+[2020.11.16-20.39.58:765][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.16-20.39.58:785][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Character/Idle1" FILE="C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Content/2DSideScrollerBP/Character/Idle1.uasset" SILENT=true
+[2020.11.16-20.39.58:792][978]LogSavePackage: Moving 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Idle1113278A04A97F201B649DE829898DC50.tmp' to 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Content/2DSideScrollerBP/Character/Idle1.uasset'
+[2020.11.16-20.39.58:801][978]AssetCheck: New page: Asset Save: Idle1
+[2020.11.16-20.39.58:801][978]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/Character/Idle1.Idle1
+[2020.11.16-20.40.16:589][104]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.16-20.40.31:578][892]Cmd: TRANSACTION UNDO
+[2020.11.16-20.40.31:578][892]LogEditorTransaction: Undo Edit Pixels per unit
+[2020.11.16-20.40.42:953][205]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.16-20.40.58:730][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.11.16-20.40.58:730][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2020.11.16-20.40.58:731][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/Character/Idle1_Sprite] ([1] browsable assets)...
+[2020.11.16-20.40.58:739][251]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScrollerBP/Character/Idle1_Sprite.Idle1_Sprite]
+[2020.11.16-20.40.58:739][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Character/Idle1_Sprite]
+[2020.11.16-20.40.58:752][251]LogSavePackage: Moving 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Idle1_Sprite_Auto1A9D0BF264ADED3D8C87A7F9C5A45EA5B.tmp' to 'C:/Users/Admin/Documents/GitHub/2DD2Reality/D2/Saved/Autosaves/Game/2DSideScrollerBP/Character/Idle1_Sprite_Auto1.uasset'
+[2020.11.16-20.40.58:753][251]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.11.16-20.42.56:514][602]LogAudioMixer: Display: Audio Buffer Underrun detected.

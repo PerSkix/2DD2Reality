@@ -1,0 +1,3 @@
+Begin Object Class=/Script/Paper2D.PaperFlipbook Name="Idle"
+   KeyFrames(0)=(Sprite=PaperSprite'"/Game/2DSideScrollerBP/Character/Sprites/Idle1_Sprite.Idle1_Sprite"')
+End Object
